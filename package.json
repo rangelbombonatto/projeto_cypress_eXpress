@@ -1,0 +1,16 @@
+{
+  "name": "cypress-express-mark",
+  "version": "1.0.0",
+  "description": "Projeto de testes de ponta a ponta no Mark L",
+  "main": "index.js",
+  "author": "Rangel Luiz Bombonatto",
+  "license": "MIT",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.0",
+    "allure-commandline": "^2.24.1",
+    "http-server": "^14.1.1"
+  },
+  "dependencies": {
+    "cypress": "^13.3.2"
+  }
+}
